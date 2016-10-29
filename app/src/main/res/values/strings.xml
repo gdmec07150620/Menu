@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">菜单</string>
+    <string name="one">第一个菜单</string>
+    <string name="two">第二个菜单</string>
+</resources>
